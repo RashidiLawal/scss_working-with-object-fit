@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AEAA,AAAA,KAAK,CAAC,GAAG,AAAC,CAEN,UAAU,CAAE,UAAU,CAEtB,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACf,AAED,AAAA,UAAU,AAAC,CACP,OAAO,CAAE,IAAI,CACb,eAAe,CAAE,YAAY,CAC7B,gBAAgB,CAAE,MAAM,CAC3B",
+    "sources": [
+        "../scss/style.scss",
+        "../scss/_customVariables.scss",
+        "../scss/_cards.scss"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
